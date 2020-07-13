@@ -1,0 +1,2 @@
+# numeric-palindrome-in-C
+A numeric palindrome is a number that is the same when read either forward or backward. For example, the number 7921297 is a numeric palindrome. Use this information to create a recursive function named numpal( ) that accepts an integer number as a parameter and returns a 1 if the parameter is a numeric palindrome and a 0 if it is not. Write a program that requests five user-input integers, one at a time. After each integer is entered, the program should display a message indicating that the number is or not a numeric palindrome.
